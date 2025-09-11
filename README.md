@@ -2,16 +2,9 @@
 
 <h3 align="center">
   <span style="font-weight:600; font-size:22px; color:#4db5ff;">
-    💻 Software Engineer 
+     Software Engineer 
   </span> 
-  | 
-  <span style="font-weight:600; font-size:22px; color:#ff4d6d;">
-    ⚡ Full-Stack Developer 
-  </span> 
-  | 
-  <span style="font-weight:600; font-size:22px; color:#ffd93d;">
-    🚀 Tech Explorer
-  </span>
+
 </h3>
 
 <p align="center">
@@ -34,7 +27,7 @@
 
 ### 🔧 Backend  
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs" style="margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=nodejs" style="margin:10px; margin " />
   <img src="https://skillicons.dev/icons?i=express" style="margin:10px;" />
   <img src="https://skillicons.dev/icons?i=dotnet" style="margin:10px;" />
   <img src="https://skillicons.dev/icons?i=prisma" style="margin:10px;" />
