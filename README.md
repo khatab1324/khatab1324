@@ -1,10 +1,23 @@
 <h1 align="center">Hi 👋, I'm Khatab Fayyad</h1>
-<h3 align="center">Software Engineer | Full-Stack Developer | Tech Explorer</h3>
+
+<h3 align="center">
+  <span style="font-weight:600; font-size:22px; color:#4db5ff;">
+    💻 Software Engineer 
+  </span> 
+  | 
+  <span style="font-weight:600; font-size:22px; color:#ff4d6d;">
+    ⚡ Full-Stack Developer 
+  </span> 
+  | 
+  <span style="font-weight:600; font-size:22px; color:#ffd93d;">
+    🚀 Tech Explorer
+  </span>
+</h3>
 
 <p align="center">
-  <a href="https://github.com/yourusername"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"/></a>
-  <a href="https://linkedin.com/in/yourlinkedin"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a>
-  <a href="mailto:youremail@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email"/></a>
+  <a href="https://github.com/yourusername"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
+  <a href="https://linkedin.com/in/yourlinkedin"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
+  <a href="mailto:youremail@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" /></a>
 </p>
 
 ---
@@ -12,52 +25,25 @@
 ## 💻 Tech Stack  
 
 ### 🌐 Frontend  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react&theme=light" style="margin: 10px;" />
+  <img src="https://skillicons.dev/icons?i=nextjs" style="margin: 10px;" />
+  <img src="https://skillicons.dev/icons?i=ts" style="margin: 10px;" />
+  <img src="https://skillicons.dev/icons?i=tailwind" style="margin: 10px;" />
 </p>
 
 ### 🔧 Backend  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,prisma,mysql" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs" style="margin: 10px;" />
+  <img src="https://skillicons.dev/icons?i=express" style="margin: 10px;" />
+  <img src="https://skillicons.dev/icons?i=dotnet" style="margin: 10px;" />
+  <img src="https://skillicons.dev/icons?i=prisma" style="margin: 10px;" />
+  <img src="https://skillicons.dev/icons?i=mysql" style="margin: 10px;" />
 </p>
 
 ### 💻 Languages  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,cs,cpp,java,postgresql" />
-</p>
-
-### ⚙️ Tools & Platforms  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,firebase,cloudinary,arduino" />
-</p>
-
----
-
-## 🚀 Highlighted Project  
-
-### 🔹 [Let's Vent](https://github.com/yourusername/lets-vent)  
-A **real-time chat app** where users can:  
-- ✅ Chat in groups or privately  
-- ✅ Add friends by username (no phone/email needed)  
-- ✅ Sign in with Google, GitHub, or Email  
-- ✅ Enjoy modern UI with live updates  
-
-**Tech Stack:** Next.js, TypeScript, Socket.io, Prisma, MySQL, Cloudinary, Resend  
-
----
-
-## 📊 GitHub Stats  
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
-<p align="center">
-  <b>Thanks for stopping by! 🚀 Let’s connect and build something awesome together ✨</b>
-</p>
+  <img src="https://skillicons.dev/icons?i=js" style="margin: 10px;" />
+  <img src="https://skillicons.dev/icons?i=cs" style="margin: 10px;" />
+  <img src="https://skillicons.dev/icons?i=cpp" style="margin: 10px;" />
+  <img src="https://skillicons.dev/
