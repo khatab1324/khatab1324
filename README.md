@@ -47,24 +47,6 @@
 <p>
   <img src="https://skillicons.dev/icons?i=docker" style="margin:10px;" />
   <img src="https://skillicons.dev/icons?i=firebase" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=cloudinary" style="margin:10px;" />
   <img src="https://skillicons.dev/icons?i=arduino" style="margin:10px;" />
 </p>
 
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&border_radius=15" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&border_radius=15" alt="Top Languages" />
-</p>
-
----
-
-<p align="center">
-  <b>Thanks for stopping by! 🚀 Let’s connect and build something awesome together ✨</b>
-</p>
