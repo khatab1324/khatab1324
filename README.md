@@ -15,8 +15,9 @@
 </h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/khattab-d"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
-  <a href="mailto:k.s.dev.fayyad@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" /></a>
+  <a href="https://github.com/yourusername"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
+  <a href="https://linkedin.com/in/yourlinkedin"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
+  <a href="mailto:youremail@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" /></a>
 </p>
 
 ---
@@ -25,50 +26,37 @@
 
 ### 🌐 Frontend  
 <p>
-  <img src="https://skillicons.dev/icons?i=react" style="margin-right:15px;" />
-  <img src="https://skillicons.dev/icons?i=nextjs" style="margin-right:15px;" />
-  <img src="https://skillicons.dev/icons?i=ts" style="margin-right:15px;" />
-  <img src="https://skillicons.dev/icons?i=tailwind" style="margin-right:15px;" />
+  <img src="https://skillicons.dev/icons?i=react" style="margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=nextjs" style="margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=ts" style="margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=tailwind" style="margin:10px;" />
 </p>
 
 ### 🔧 Backend  
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs" style="margin-right:15px;" />
-  <img src="https://skillicons.dev/icons?i=express" style="margin-right:15px;" />
-  <img src="https://skillicons.dev/icons?i=dotnet" style="margin-right:15px;" />
-  <img src="https://skillicons.dev/icons?i=prisma" style="margin-right:15px;" />
-  <img src="https://skillicons.dev/icons?i=mysql" style="margin-right:15px;" />
+  <img src="https://skillicons.dev/icons?i=nodejs" style="margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=express" style="margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=dotnet" style="margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=prisma" style="margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=mysql" style="margin:10px;" />
 </p>
 
 ### 💻 Languages  
 <p>
-  <img src="https://skillicons.dev/icons?i=js" style="margin-right:15px;" />
-  <img src="https://skillicons.dev/icons?i=cs" style="margin-right:15px;" />
-  <img src="https://skillicons.dev/icons?i=cpp" style="margin-right:15px;" />
-  <img src="https://skillicons.dev/icons?i=java" style="margin-right:15px;" />
-  <img src="https://skillicons.dev/icons?i=postgresql" style="margin-right:15px;" />
+  <img src="https://skillicons.dev/icons?i=js" style="margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=cs" style="margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=cpp" style="margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=java" style="margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=postgresql" style="margin:10px;" />
 </p>
 
 ### ⚙️ Tools & Platforms  
 <p>
-  <img src="https://skillicons.dev/icons?i=docker" style="margin-right:15px;" />
-  <img src="https://skillicons.dev/icons?i=firebase" style="margin-right:15px;" />
-  <img src="https://skillicons.dev/icons?i=cloudinary" style="margin-right:15px;" />
-  <img src="https://skillicons.dev/icons?i=arduino" style="margin-right:15px;" />
+  <img src="https://skillicons.dev/icons?i=docker" style="margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=firebase" style="margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=cloudinary" style="margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=arduino" style="margin:10px;" />
 </p>
-
----
-
-## 🚀 Highlighted Project  
-
-### 🔹 [Let's Vent](https://github.com/yourusername/lets-vent)  
-A **real-time chat app** where users can:  
-- ✅ Chat in groups or privately  
-- ✅ Add friends by username (no phone/email needed)  
-- ✅ Sign in with Google, GitHub, or Email  
-- ✅ Enjoy modern UI with live updates  
-
-**Tech Stack:** Next.js, TypeScript, Socket.io, Prisma, MySQL, Cloudinary, Resend  
 
 ---
 
