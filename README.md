@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Khatab Fayyad</h1>
+<h1 align="center">Hi 👋, I'm Khattab Fayyad</h1>
 
 <h3 align="center">
   <span style="font-weight:600; font-size:22px; color:#4db5ff;">
@@ -22,7 +22,7 @@
 
 ##  About Me  
 
-Hey there! I'm **Khatab Fayyad**, a passionate **Software Engineer** who loves building elegant, efficient, and user-friendly web applications.  
+Hey there! I'm **Khattab Fayyad**, a passionate **Software Engineer** who loves building elegant, efficient, and user-friendly web applications.  
 I enjoy solving problems, learning new technologies, and transforming ideas into real-world solutions.  
 
  A bit more about me:  
