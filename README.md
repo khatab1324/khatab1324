@@ -9,10 +9,10 @@
 <p align="center">
   <a href="https://github.com/khatab1324">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
-  </a>
+    </a>&nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/khattab-d">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="mailto:k.s.fayyad.dev@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
   </a>
@@ -35,30 +35,29 @@ I enjoy solving problems, learning new technologies, and transforming ideas into
 
 ##  Tech Stack  
 
-### Frontend  
-<p>
-  <img src="https://skillicons.dev/icons?i=react" alt="React" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" style="margin:10px;" />
+### Frontend  <p align="center">
+  <img src="https://skillicons.dev/icons?i=react" alt="React" width="48" height="48"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="48" height="48"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="48" height="48"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="48" height="48"/>
 </p>
 
 ###  Backend  
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=express" alt="Express" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=prisma" alt="Prisma" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" style="margin:10px;" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="48" height="48"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=express" alt="Express" width="48" height="48"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" width="48" height="48"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=prisma" alt="Prisma" width="48" height="48"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="48" height="48"/>
 </p>
 
 ###  Languages  
-<p>
-  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=cs" alt="C#" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=java" alt="Java" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" style="margin:10px;" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="48" height="48"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=cs" alt="C#" width="48" height="48"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="48" height="48"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="48" height="48"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="48" height="48"/>
 </p>
 
 ---
