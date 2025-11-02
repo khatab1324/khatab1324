@@ -35,7 +35,8 @@ I enjoy solving problems, learning new technologies, and transforming ideas into
 
 ##  Tech Stack  
 
-### Frontend  <p align="center">
+### Frontend  
+<p align="">
   <img src="https://skillicons.dev/icons?i=react" alt="React" width="48" height="48"/>&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="48" height="48"/>&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="48" height="48"/>&nbsp;&nbsp;&nbsp;
@@ -43,7 +44,7 @@ I enjoy solving problems, learning new technologies, and transforming ideas into
 </p>
 
 ###  Backend  
-<p align="center">
+<p align="">
   <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="48" height="48"/>&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=express" alt="Express" width="48" height="48"/>&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" width="48" height="48"/>&nbsp;&nbsp;&nbsp;
@@ -52,7 +53,7 @@ I enjoy solving problems, learning new technologies, and transforming ideas into
 </p>
 
 ###  Languages  
-<p align="center">
+<p align="">
   <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="48" height="48"/>&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=cs" alt="C#" width="48" height="48"/>&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="48" height="48"/>&nbsp;&nbsp;&nbsp;
